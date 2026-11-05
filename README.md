@@ -44,7 +44,7 @@ As imagens são ilustrações SVG, **não prints de uma execução do aplicativo
 ## Sobre o código
 Este repositório documenta o projeto sem publicar o código-fonte, credenciais, informações de alunos ou infraestrutura interna.
 
-[Ver meu portfólio](https://jonascepa09-star.github.io/jonaspessoa.github.io/)
+[Ver meu portfólio](https://jonaspessoa.github.io/)
 ## Autoria
 
-**Jonas Pessoa** · [GitHub](https://github.com/jonascepa09-star)
+**Jonas Pessoa** · [GitHub](https://github.com/jonaspessoa)
